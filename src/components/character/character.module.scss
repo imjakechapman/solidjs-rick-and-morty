@@ -1,0 +1,16 @@
+.Character {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  justify-content: flex-start;
+  align-items: center;
+
+  &Avatar {
+    border-radius: 8px;
+  }
+
+  &Name {
+    font-size: 24px;
+    font-weight: 700;
+  }
+}

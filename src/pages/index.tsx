@@ -1,0 +1,6 @@
+const Home = () => {
+  return <p>Home</p>;
+};
+
+export { Home };
+export default Home;
